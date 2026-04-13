@@ -4,7 +4,7 @@
 
 - **Lab:** 7-1-mongodb-main
 - **Deadline (Riyadh / UTC+03:00):** 2026-04-13T20:59:00+03:00
-- **Last commit time (from git log):** 2026-04-13T06:29:27Z
+- **Last commit time (from git log):** 2026-04-13T10:27:00+03:00
 - **Submission marks:** **20/20** (On time)
 
 
@@ -19,77 +19,77 @@
 
 ## TODO-by-TODO Feedback
 
-### MongoDB TODO 1: Screenshot in TODO-1 — **0/4**
+### MongoDB TODO 1: Screenshot in TODO-1 — **4/4**
 
 **Checklist**
-- ❌ Contains at least one image file in Mongo-Screen-Shots/TODO-1
+- ✅ Contains at least one image file in Mongo-Screen-Shots/TODO-1
 
 **Deductions / Notes**
-- ❗ Missing: Contains at least one image file in Mongo-Screen-Shots/TODO-1
+- ✅ No deductions. Good job!
 
-### MongoDB TODO 2: Screenshot in TODO-2 — **0/4**
+### MongoDB TODO 2: Screenshot in TODO-2 — **4/4**
 
 **Checklist**
-- ❌ Contains at least one image file in Mongo-Screen-Shots/TODO-2
+- ✅ Contains at least one image file in Mongo-Screen-Shots/TODO-2
 
 **Deductions / Notes**
-- ❗ Missing: Contains at least one image file in Mongo-Screen-Shots/TODO-2
+- ✅ No deductions. Good job!
 
-### MongoDB TODO 3: Screenshot in TODO-3 — **0/4**
+### MongoDB TODO 3: Screenshot in TODO-3 — **4/4**
 
 **Checklist**
-- ❌ Contains at least one image file in Mongo-Screen-Shots/TODO-3
+- ✅ Contains at least one image file in Mongo-Screen-Shots/TODO-3
 
 **Deductions / Notes**
-- ❗ Missing: Contains at least one image file in Mongo-Screen-Shots/TODO-3
+- ✅ No deductions. Good job!
 
-### MongoDB TODO 4: Screenshot in TODO-4 — **0/4**
+### MongoDB TODO 4: Screenshot in TODO-4 — **4/4**
 
 **Checklist**
-- ❌ Contains at least one image file in Mongo-Screen-Shots/TODO-4
+- ✅ Contains at least one image file in Mongo-Screen-Shots/TODO-4
 
 **Deductions / Notes**
-- ❗ Missing: Contains at least one image file in Mongo-Screen-Shots/TODO-4
+- ✅ No deductions. Good job!
 
-### MongoDB TODO 5: Screenshot in TODO-5 — **0/4**
+### MongoDB TODO 5: Screenshot in TODO-5 — **4/4**
 
 **Checklist**
-- ❌ Contains at least one image file in Mongo-Screen-Shots/TODO-5
+- ✅ Contains at least one image file in Mongo-Screen-Shots/TODO-5
 
 **Deductions / Notes**
-- ❗ Missing: Contains at least one image file in Mongo-Screen-Shots/TODO-5
+- ✅ No deductions. Good job!
 
-### MongoDB TODO 6: Screenshot in TODO-6 — **0/4**
+### MongoDB TODO 6: Screenshot in TODO-6 — **4/4**
 
 **Checklist**
-- ❌ Contains at least one image file in Mongo-Screen-Shots/TODO-6
+- ✅ Contains at least one image file in Mongo-Screen-Shots/TODO-6
 
 **Deductions / Notes**
-- ❗ Missing: Contains at least one image file in Mongo-Screen-Shots/TODO-6
+- ✅ No deductions. Good job!
 
-### MongoDB TODO 7: Screenshot in TODO-7 — **0/4**
+### MongoDB TODO 7: Screenshot in TODO-7 — **4/4**
 
 **Checklist**
-- ❌ Contains at least one image file in Mongo-Screen-Shots/TODO-7
+- ✅ Contains at least one image file in Mongo-Screen-Shots/TODO-7
 
 **Deductions / Notes**
-- ❗ Missing: Contains at least one image file in Mongo-Screen-Shots/TODO-7
+- ✅ No deductions. Good job!
 
-### MongoDB TODO 8: Screenshot in TODO-8 — **0/4**
+### MongoDB TODO 8: Screenshot in TODO-8 — **4/4**
 
 **Checklist**
-- ❌ Contains at least one image file in Mongo-Screen-Shots/TODO-8
+- ✅ Contains at least one image file in Mongo-Screen-Shots/TODO-8
 
 **Deductions / Notes**
-- ❗ Missing: Contains at least one image file in Mongo-Screen-Shots/TODO-8
+- ✅ No deductions. Good job!
 
-### MongoDB TODO 9: Screenshot in TODO-9 — **0/4**
+### MongoDB TODO 9: Screenshot in TODO-9 — **4/4**
 
 **Checklist**
-- ❌ Contains at least one image file in Mongo-Screen-Shots/TODO-9
+- ✅ Contains at least one image file in Mongo-Screen-Shots/TODO-9
 
 **Deductions / Notes**
-- ❗ Missing: Contains at least one image file in Mongo-Screen-Shots/TODO-9
+- ✅ No deductions. Good job!
 
 ### Mongoose TODO 1: Establish MongoDB connection — **0/8**
 
