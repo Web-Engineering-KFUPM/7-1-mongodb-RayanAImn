@@ -1,0 +1,183 @@
+# 7-1-mongodb-main — Feedback
+
+## Submission
+
+- **Lab:** 7-1-mongodb-main
+- **Deadline (Riyadh / UTC+03:00):** 2026-04-13T20:59:00+03:00
+- **Last commit time (from git log):** 2026-04-13T06:29:27Z
+- **Submission marks:** **20/20** (On time)
+
+
+## Files Checked
+
+- Repo root (cwd): C:\Users\rayan\SWE363_ACtivities\7-1-mongodb-RayanAImn
+- Detected project root: C:\Users\rayan\SWE363_ACtivities\7-1-mongodb-RayanAImn\7-1-mongodb
+- Server: ✅ C:\Users\rayan\SWE363_ACtivities\7-1-mongodb-RayanAImn\7-1-mongodb\server.js
+- Screenshot root: ✅ C:\Users\rayan\SWE363_ACtivities\7-1-mongodb-RayanAImn\7-1-mongodb\Mongo-Screen-Shots
+
+---
+
+## TODO-by-TODO Feedback
+
+### MongoDB TODO 1: Screenshot in TODO-1 — **0/4**
+
+**Checklist**
+- ❌ Contains at least one image file in Mongo-Screen-Shots/TODO-1
+
+**Deductions / Notes**
+- ❗ Missing: Contains at least one image file in Mongo-Screen-Shots/TODO-1
+
+### MongoDB TODO 2: Screenshot in TODO-2 — **0/4**
+
+**Checklist**
+- ❌ Contains at least one image file in Mongo-Screen-Shots/TODO-2
+
+**Deductions / Notes**
+- ❗ Missing: Contains at least one image file in Mongo-Screen-Shots/TODO-2
+
+### MongoDB TODO 3: Screenshot in TODO-3 — **0/4**
+
+**Checklist**
+- ❌ Contains at least one image file in Mongo-Screen-Shots/TODO-3
+
+**Deductions / Notes**
+- ❗ Missing: Contains at least one image file in Mongo-Screen-Shots/TODO-3
+
+### MongoDB TODO 4: Screenshot in TODO-4 — **0/4**
+
+**Checklist**
+- ❌ Contains at least one image file in Mongo-Screen-Shots/TODO-4
+
+**Deductions / Notes**
+- ❗ Missing: Contains at least one image file in Mongo-Screen-Shots/TODO-4
+
+### MongoDB TODO 5: Screenshot in TODO-5 — **0/4**
+
+**Checklist**
+- ❌ Contains at least one image file in Mongo-Screen-Shots/TODO-5
+
+**Deductions / Notes**
+- ❗ Missing: Contains at least one image file in Mongo-Screen-Shots/TODO-5
+
+### MongoDB TODO 6: Screenshot in TODO-6 — **0/4**
+
+**Checklist**
+- ❌ Contains at least one image file in Mongo-Screen-Shots/TODO-6
+
+**Deductions / Notes**
+- ❗ Missing: Contains at least one image file in Mongo-Screen-Shots/TODO-6
+
+### MongoDB TODO 7: Screenshot in TODO-7 — **0/4**
+
+**Checklist**
+- ❌ Contains at least one image file in Mongo-Screen-Shots/TODO-7
+
+**Deductions / Notes**
+- ❗ Missing: Contains at least one image file in Mongo-Screen-Shots/TODO-7
+
+### MongoDB TODO 8: Screenshot in TODO-8 — **0/4**
+
+**Checklist**
+- ❌ Contains at least one image file in Mongo-Screen-Shots/TODO-8
+
+**Deductions / Notes**
+- ❗ Missing: Contains at least one image file in Mongo-Screen-Shots/TODO-8
+
+### MongoDB TODO 9: Screenshot in TODO-9 — **0/4**
+
+**Checklist**
+- ❌ Contains at least one image file in Mongo-Screen-Shots/TODO-9
+
+**Deductions / Notes**
+- ❗ Missing: Contains at least one image file in Mongo-Screen-Shots/TODO-9
+
+### Mongoose TODO 1: Establish MongoDB connection — **0/8**
+
+**Checklist**
+- ❌ Imports mongoose using import mongoose from "mongoose"
+- ❌ Calls mongoose.connect(...)
+- ❌ Uses a MongoDB SRV connection string
+- ❌ Connection string includes a database name after .net/
+
+**Deductions / Notes**
+- ❗ Missing: Imports mongoose using import mongoose from "mongoose"
+- ❗ Missing: Calls mongoose.connect(...)
+- ❗ Missing: Uses a MongoDB SRV connection string
+- ❗ Missing: Connection string includes a database name after .net/
+
+### Mongoose TODO 2: Define schema and model — **0/8**
+
+**Checklist**
+- ❌ Defines a schema using new mongoose.Schema(...)
+- ❌ Schema includes name field
+- ❌ Schema includes age field
+- ❌ Schema includes major field
+- ❌ Creates Student model using mongoose.model("Student", ...)
+
+**Deductions / Notes**
+- ❗ Missing: Defines a schema using new mongoose.Schema(...)
+- ❗ Missing: Schema includes name field
+- ❗ Missing: Schema includes age field
+- ❗ Missing: Schema includes major field
+- ❗ Missing: Creates Student model using mongoose.model("Student", ...)
+
+### Mongoose TODO 3: Create document(s) — **0/7**
+
+**Checklist**
+- ❌ Has createStudents function or equivalent create logic
+- ❌ Uses Student.insertMany(...) or Student.create(...)
+- ❌ Includes student data for "Ali"
+- ❌ Includes student data for "Sara"
+
+**Deductions / Notes**
+- ❗ Missing: Has createStudents function or equivalent create logic
+- ❗ Missing: Uses Student.insertMany(...) or Student.create(...)
+- ❗ Missing: Includes student data for "Ali"
+- ❗ Missing: Includes student data for "Sara"
+
+### Mongoose TODO 4: Read document(s) — **0/7**
+
+**Checklist**
+- ❌ Has readStudents function or equivalent read logic
+- ❌ Uses Student.find()
+- ❌ Logs or uses the read result
+
+**Deductions / Notes**
+- ❗ Missing: Has readStudents function or equivalent read logic
+- ❗ Missing: Uses Student.find()
+- ❗ Missing: Logs or uses the read result
+
+### Mongoose TODO 5: Update document — **0/7**
+
+**Checklist**
+- ❌ Has updateStudent function or equivalent update logic
+- ❌ Uses Student.updateOne(...) targeting name "Ali"
+- ❌ Updates age to 22
+
+**Deductions / Notes**
+- ❗ Missing: Has updateStudent function or equivalent update logic
+- ❗ Missing: Uses Student.updateOne(...) targeting name "Ali"
+- ❗ Missing: Updates age to 22
+
+### Mongoose TODO 6: Delete document — **0/7**
+
+**Checklist**
+- ❌ Has deleteStudent function or equivalent delete logic
+- ❌ Uses Student.deleteOne(...) targeting name "Sara"
+
+**Deductions / Notes**
+- ❗ Missing: Has deleteStudent function or equivalent delete logic
+- ❗ Missing: Uses Student.deleteOne(...) targeting name "Sara"
+
+---
+
+## How marks were deducted (rules)
+
+- JS comments are ignored, so starter TODO comments do NOT count.
+- Screenshot TODOs are graded only by presence of at least one image file inside each TODO folder.
+- Mongoose checks are intentionally lenient and verify top-level implementation only.
+- Code can be in ANY order; repeated code is allowed.
+- Common equivalents are accepted where possible.
+- npm install commands and manual testing commands are NOT graded.
+- Missing required items reduce marks proportionally within that TODO.
+- The script checks for the required MongoDB/Mongoose structure, not exact wording.
