@@ -4,7 +4,7 @@
 
 - **Lab:** 7-1-mongodb-main
 - **Deadline (Riyadh / UTC+03:00):** 2026-04-13T20:59:00+03:00
-- **Last commit time (from git log):** 2026-04-13T10:27:00+03:00
+- **Last commit time (from git log):** 2026-04-13T10:46:28+03:00
 - **Submission marks:** **20/20** (On time)
 
 
@@ -91,83 +91,68 @@
 **Deductions / Notes**
 - ✅ No deductions. Good job!
 
-### Mongoose TODO 1: Establish MongoDB connection — **0/8**
+### Mongoose TODO 1: Establish MongoDB connection — **8/8**
 
 **Checklist**
-- ❌ Imports mongoose using import mongoose from "mongoose"
-- ❌ Calls mongoose.connect(...)
-- ❌ Uses a MongoDB SRV connection string
-- ❌ Connection string includes a database name after .net/
+- ✅ Imports mongoose using import mongoose from "mongoose"
+- ✅ Calls mongoose.connect(...)
+- ✅ Uses a MongoDB SRV connection string
+- ✅ Connection string includes a database name after .net/
 
 **Deductions / Notes**
-- ❗ Missing: Imports mongoose using import mongoose from "mongoose"
-- ❗ Missing: Calls mongoose.connect(...)
-- ❗ Missing: Uses a MongoDB SRV connection string
-- ❗ Missing: Connection string includes a database name after .net/
+- ✅ No deductions. Good job!
 
-### Mongoose TODO 2: Define schema and model — **0/8**
+### Mongoose TODO 2: Define schema and model — **8/8**
 
 **Checklist**
-- ❌ Defines a schema using new mongoose.Schema(...)
-- ❌ Schema includes name field
-- ❌ Schema includes age field
-- ❌ Schema includes major field
-- ❌ Creates Student model using mongoose.model("Student", ...)
+- ✅ Defines a schema using new mongoose.Schema(...)
+- ✅ Schema includes name field
+- ✅ Schema includes age field
+- ✅ Schema includes major field
+- ✅ Creates Student model using mongoose.model("Student", ...)
 
 **Deductions / Notes**
-- ❗ Missing: Defines a schema using new mongoose.Schema(...)
-- ❗ Missing: Schema includes name field
-- ❗ Missing: Schema includes age field
-- ❗ Missing: Schema includes major field
-- ❗ Missing: Creates Student model using mongoose.model("Student", ...)
+- ✅ No deductions. Good job!
 
-### Mongoose TODO 3: Create document(s) — **0/7**
+### Mongoose TODO 3: Create document(s) — **7/7**
 
 **Checklist**
-- ❌ Has createStudents function or equivalent create logic
-- ❌ Uses Student.insertMany(...) or Student.create(...)
-- ❌ Includes student data for "Ali"
-- ❌ Includes student data for "Sara"
+- ✅ Has createStudents function or equivalent create logic
+- ✅ Uses Student.insertMany(...) or Student.create(...)
+- ✅ Includes student data for "Ali"
+- ✅ Includes student data for "Sara"
 
 **Deductions / Notes**
-- ❗ Missing: Has createStudents function or equivalent create logic
-- ❗ Missing: Uses Student.insertMany(...) or Student.create(...)
-- ❗ Missing: Includes student data for "Ali"
-- ❗ Missing: Includes student data for "Sara"
+- ✅ No deductions. Good job!
 
-### Mongoose TODO 4: Read document(s) — **0/7**
+### Mongoose TODO 4: Read document(s) — **7/7**
 
 **Checklist**
-- ❌ Has readStudents function or equivalent read logic
-- ❌ Uses Student.find()
-- ❌ Logs or uses the read result
+- ✅ Has readStudents function or equivalent read logic
+- ✅ Uses Student.find()
+- ✅ Logs or uses the read result
 
 **Deductions / Notes**
-- ❗ Missing: Has readStudents function or equivalent read logic
-- ❗ Missing: Uses Student.find()
-- ❗ Missing: Logs or uses the read result
+- ✅ No deductions. Good job!
 
-### Mongoose TODO 5: Update document — **0/7**
+### Mongoose TODO 5: Update document — **7/7**
 
 **Checklist**
-- ❌ Has updateStudent function or equivalent update logic
-- ❌ Uses Student.updateOne(...) targeting name "Ali"
-- ❌ Updates age to 22
+- ✅ Has updateStudent function or equivalent update logic
+- ✅ Uses Student.updateOne(...) targeting name "Ali"
+- ✅ Updates age to 22
 
 **Deductions / Notes**
-- ❗ Missing: Has updateStudent function or equivalent update logic
-- ❗ Missing: Uses Student.updateOne(...) targeting name "Ali"
-- ❗ Missing: Updates age to 22
+- ✅ No deductions. Good job!
 
-### Mongoose TODO 6: Delete document — **0/7**
+### Mongoose TODO 6: Delete document — **7/7**
 
 **Checklist**
-- ❌ Has deleteStudent function or equivalent delete logic
-- ❌ Uses Student.deleteOne(...) targeting name "Sara"
+- ✅ Has deleteStudent function or equivalent delete logic
+- ✅ Uses Student.deleteOne(...) targeting name "Sara"
 
 **Deductions / Notes**
-- ❗ Missing: Has deleteStudent function or equivalent delete logic
-- ❗ Missing: Uses Student.deleteOne(...) targeting name "Sara"
+- ✅ No deductions. Good job!
 
 ---
 
